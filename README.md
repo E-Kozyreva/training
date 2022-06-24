@@ -1,2 +1,4 @@
 # Training
-Training projects.
+Languages:
+- python;
+- c;
