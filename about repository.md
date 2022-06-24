@@ -1,4 +1,5 @@
 # Training
 Languages:
 - python;
-- c;
+- c++;
+- c.
